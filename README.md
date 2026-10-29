@@ -44,7 +44,7 @@ Example: pizza has about 266 kcal per 100 g, so a 250 g portion is about 665 kca
 | Augmentation | random flip, rotation, zoom (training only) |
 | Optimiser / loss | Adam / sparse categorical cross-entropy |
 | Epochs / batch size | 15 / 32 |
-| Validation accuracy | [XX.XX]% |
+| Validation accuracy | 63.43% |
 
 ## Project structure
 
