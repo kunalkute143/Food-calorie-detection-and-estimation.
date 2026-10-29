@@ -1,0 +1,9 @@
+tensorflow>=2.12
+numpy
+pandas
+opencv-python
+matplotlib
+streamlit
+datasets
+pillow
+flask>=2.2
